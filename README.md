@@ -1,9 +1,9 @@
 # Running the project
 
-Clone the repo.\
-Goto the correct directory.\
-Enter the command npm i.\
-Enter the command npm start.\
+Clone the repo\
+Goto the correct directory\
+Enter the command npm i\
+Enter the command npm start.
 
 ## How to use the App
 Enter any number within the range of [1-8].\
