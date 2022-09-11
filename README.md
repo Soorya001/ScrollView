@@ -6,9 +6,9 @@
 4. Enter the command npm start
 
 ## How to use the App
-1. Enter any number within the range of [1-8]\
-2. And hit pick any number of times\
-3. See the magic happen\
+1. Enter any number within the range of [1-8]
+2. And hit pick any number of times
+3. See the magic happen
 
 
 
