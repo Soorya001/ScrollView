@@ -1,8 +1,8 @@
 # Running the project
 
-1. Clone the repo\
-2. Goto the correct directory\
-3. Enter the command npm i\
+1. Clone the repo
+2. Goto the correct directory
+3. Enter the command npm i
 4. Enter the command npm start
 
 ## How to use the App
